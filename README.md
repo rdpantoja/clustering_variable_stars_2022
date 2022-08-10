@@ -20,10 +20,16 @@ The data resulting from the clustering for each of the catalogs used is stored i
 </p>
 
 <h3 align="center">
-  UMAP visualization of HDBSCAN clustering on CSSCVS
+  UMAP visualization of first pass of HDBSCAN clustering on CSSCVS
 </h3>
 
-asdasd
+
+
+
+<p align="center">
+  <img src="https://github.com/rdpantoja/clustering_variable_stars_2022/blob/" width="720" title="Visualization of CSSCVS">
+</p>
+
 
 <h3 align="center">
   UMAP visualization of CSSCVS (GROUND TRUE classes)
