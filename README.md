@@ -8,3 +8,6 @@ As mentioned in the paper, the dimensionality reduction is done with __UMAP__ fo
 The data resulting from the clustering for each of the catalogs used is stored in /datasets/datasets.zip
 
 ## Visualizations
+
+# Catalina Surveys (CSSCVS)
+
