@@ -11,3 +11,14 @@ The data resulting from the clustering for each of the catalogs used is stored i
 
 # Catalina Surveys (CSSCVS)
 
+
+
+
+
+
+Visualization of cluster C13 with GROUND TRUE classes
+
+<p align="center">
+  <img src="https://github.com/rdpantoja/clustering_variable_stars_2022/blob/b8f068caf9d3663710ad02db08a138ed3e2ccb08/visualizations/CSSCVS_C12_viz.pdf.png" width="500" title="Visualization of cluster C13">
+</p>
+
