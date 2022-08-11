@@ -96,3 +96,84 @@ The data resulting from the clustering for each of the catalogs is stored in /da
 ## OGLE-III (OCVS)
 
 
+[//]: # (1)
+
+<h3 align="center">
+  UMAP visualization of OCVS (GROUND TRUE classes)
+</h3>
+
+<p align="center">
+  <img src="https://github.com/rdpantoja/clustering_variable_stars_2022/blob/c06b83f6c0a9c040686cdbc651f06e969f3f9bd6/visualizations/OCSV_viz.pdf.png" width="720" title="Visualization of OCVS">
+</p>
+
+[//]: # (2)
+
+<h3 align="center">
+  UMAP visualization of first pass of HDBSCAN clustering on OCVS
+</h3>
+
+<p align="center">
+  <img src="https://github.com/rdpantoja/clustering_variable_stars_2022/blob/c06b83f6c0a9c040686cdbc651f06e969f3f9bd6/visualizations/ocvs_l1.gif" width="500" title="Visualization of OCVS clustering">
+</p>
+
+[//]: # (3)
+
+<h3 align="center">
+  UMAP visualization of OCVS cluster C4 (GROUND TRUE classes)
+</h3>
+
+<p align="center">
+  <img src="https://github.com/rdpantoja/clustering_variable_stars_2022/blob/c06b83f6c0a9c040686cdbc651f06e969f3f9bd6/visualizations/OCVS_C4_viz.pdf.png" width="500" title="Visualization of cluster C4">
+</p>
+
+[//]: # (4)
+
+<h3 align="center">
+  UMAP visualization of the results of HDBSCAN clustering on cluster C4
+</h3>
+
+<p align="center">
+  <img src="https://github.com/rdpantoja/clustering_variable_stars_2022/blob/c06b83f6c0a9c040686cdbc651f06e969f3f9bd6/visualizations/ocvs_c4.gif" width="500" title="Visualization of cluster C13 clustering">
+</p>
+
+
+[//]: # (5)
+
+<h3 align="center">
+  UMAP visualization of OCVS cluster C5 (GROUND TRUE classes)
+</h3>
+
+<p align="center">
+  <img src="https://github.com/rdpantoja/clustering_variable_stars_2022/blob/c06b83f6c0a9c040686cdbc651f06e969f3f9bd6/visualizations/OCVS_C5_viz.pdf.png" width="500" title="Visualization of cluster C5">
+</p>
+
+[//]: # (6)
+
+<h3 align="center">
+  UMAP visualization of the results of HDBSCAN clustering on cluster C5
+</h3>
+
+<p align="center">
+  <img src="https://github.com/rdpantoja/clustering_variable_stars_2022/blob/c06b83f6c0a9c040686cdbc651f06e969f3f9bd6/visualizations/ocvs_c5.gif" width="500" title="Visualization of cluster C5 clustering">
+</p>
+
+
+[//]: # (7)
+
+<h3 align="center">
+  UMAP visualization of OCVS cluster C8 (GROUND TRUE classes)
+</h3>
+
+<p align="center">
+  <img src="https://github.com/rdpantoja/clustering_variable_stars_2022/blob/c06b83f6c0a9c040686cdbc651f06e969f3f9bd6/visualizations/OCVS_C8_viz.pdf.png" width="500" title="Visualization of cluster C8">
+</p>
+
+[//]: # (8)
+
+<h3 align="center">
+  UMAP visualization of the results of HDBSCAN clustering on cluster C5
+</h3>
+
+<p align="center">
+  <img src="https://github.com/rdpantoja/clustering_variable_stars_2022/blob/c06b83f6c0a9c040686cdbc651f06e969f3f9bd6/visualizations/ocvs_c8.gif" width="500" title="Visualization of cluster C5 clustering">
+</p>
