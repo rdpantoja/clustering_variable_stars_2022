@@ -7,6 +7,8 @@ As mentioned in the paper, the dimensionality reduction is done with __UMAP__ fo
 ## Generated Data
 The data resulting from the clustering for each of the catalogs is stored in /datasets/datasets.zip
 
+Each file has the id of each star, the position in the first UMAP embedding  __*(X_0,Y_0)*__  and the position in the second UMAP (of a cluster) __*(X_1,Y_1)*__ . The column __*labels_L0*__ corresponds to the assigned labels from the first clustering level, and __*labels*__ corresponds to the assigned label for the second and third clustering levels.
+
 # Visualizations
 
 ## Catalina Surveys (CSSCVS)
