@@ -5,11 +5,13 @@
 As mentioned in the paper, the dimensionality reduction is done with __UMAP__ for both visualizing the data (to __2D__) and clustering (to __20D__). The visualizations are used to guide the clustering analysis and are nice to see the final results.
 
 ## Generated Data
-The data resulting from the clustering for each of the catalogs used is stored in /datasets/datasets.zip
+The data resulting from the clustering for each of the catalogs is stored in /datasets/datasets.zip
 
 # Visualizations
 
 ## Catalina Surveys (CSSCVS)
+
+[//]: # (1)
 
 <h3 align="center">
   UMAP visualization of CSSCVS (GROUND TRUE classes)
@@ -19,23 +21,78 @@ The data resulting from the clustering for each of the catalogs used is stored i
   <img src="https://github.com/rdpantoja/clustering_variable_stars_2022/blob/d356eac1925576552a3800f4573f81a22b14009f/visualizations/CSSCVS_viz.pdf.png" width="720" title="Visualization of CSSCVS">
 </p>
 
+[//]: # (2)
+
 <h3 align="center">
   UMAP visualization of first pass of HDBSCAN clustering on CSSCVS
 </h3>
 
-
-
-
 <p align="center">
-  <img src="https://github.com/rdpantoja/clustering_variable_stars_2022/blob/" width="720" title="Visualization of CSSCVS">
+  <img src="https://github.com/rdpantoja/clustering_variable_stars_2022/blob/603b7a9b00775a9d9379debcc1edd3419f515d98/visualizations/csscvs_l1.gif" width="500" title="Visualization of CSSCVS">
 </p>
 
+[//]: # (3)
 
 <h3 align="center">
-  UMAP visualization of CSSCVS (GROUND TRUE classes)
+  UMAP visualization of CSSCVS cluster C12 (GROUND TRUE classes)
 </h3>
 
 <p align="center">
-  <img src="https://github.com/rdpantoja/clustering_variable_stars_2022/blob/b8f068caf9d3663710ad02db08a138ed3e2ccb08/visualizations/CSSCVS_C12_viz.pdf.png" width="500" title="Visualization of cluster C13">
+  <img src="https://github.com/rdpantoja/clustering_variable_stars_2022/blob/b8f068caf9d3663710ad02db08a138ed3e2ccb08/visualizations/CSSCVS_C12_viz.pdf.png" width="500" title="Visualization of cluster C12">
 </p>
+
+[//]: # (4)
+
+<h3 align="center">
+  UMAP visualization of the results of HDBSCAN clustering on cluster C12
+</h3>
+
+<p align="center">
+  <img src="https://github.com/rdpantoja/clustering_variable_stars_2022/blob/603b7a9b00775a9d9379debcc1edd3419f515d98/visualizations/csscvs_c12.gif" width="500" title="Visualization of cluster C12">
+</p>
+
+## Gaia DR2 (GDR2CVS)
+
+[//]: # (1)
+
+<h3 align="center">
+  UMAP visualization of GDR2CVS (GROUND TRUE classes)
+</h3>
+
+<p align="center">
+  <img src="https://github.com/rdpantoja/clustering_variable_stars_2022/blob/d356eac1925576552a3800f4573f81a22b14009f/visualizations/GDR2CVS_viz.pdf.png" width="720" title="Visualization of GDR2CVS">
+</p>
+
+[//]: # (2)
+
+<h3 align="center">
+  UMAP visualization of first pass of HDBSCAN clustering on GDR2CVS
+</h3>
+
+<p align="center">
+  <img src="https://github.com/rdpantoja/clustering_variable_stars_2022/blob/603b7a9b00775a9d9379debcc1edd3419f515d98/visualizations/gdr2cvs_l1.gif" width="500" title="Visualization of GDR2CVS">
+</p>
+
+[//]: # (3)
+
+<h3 align="center">
+  UMAP visualization of GDR2CVS cluster C13 (GROUND TRUE classes)
+</h3>
+
+<p align="center">
+  <img src="https://github.com/rdpantoja/clustering_variable_stars_2022/blob/603b7a9b00775a9d9379debcc1edd3419f515d98/visualizations/GDR2CVS_C13_viz.pdf.png" width="500" title="Visualization of cluster C13">
+</p>
+
+[//]: # (4)
+
+<h3 align="center">
+  UMAP visualization of the results of HDBSCAN clustering on cluster C13
+</h3>
+
+<p align="center">
+  <img src="https://github.com/rdpantoja/clustering_variable_stars_2022/blob/603b7a9b00775a9d9379debcc1edd3419f515d98/visualizations/gdr2cvs_c13.gif" width="500" title="Visualization of cluster C13 clustering">
+</p>
+
+## OGLE-III (OCVS)
+
 
