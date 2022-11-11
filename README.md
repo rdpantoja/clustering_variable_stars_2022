@@ -1,4 +1,4 @@
-# Data generated and additional visualizations from Pantoja et al. 2022
+# Data generated and additional visualizations from  [Pantoja et al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.3660P/abstract)
 
 ## Clustering
 
